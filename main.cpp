@@ -8,6 +8,8 @@
 
 void testFunction(){} // для тестов коммитов
 
+void FunctionMaxTest(){} // для тестов коммитов MaksMN
+
 int main(int argc, const char *argv[])
 {
     int num{123};
