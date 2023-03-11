@@ -4,7 +4,7 @@
 // Ivan Konishchev
 //
 
-#include <iostream>
+// #include <iostream>
 int main(int argc, const char *argv[])
 {
     int num{123};
