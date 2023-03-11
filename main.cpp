@@ -5,6 +5,9 @@
 //
 
 #include <iostream>
+
+void testFunction(){} // для тестов коммитов
+
 int main(int argc, const char *argv[])
 {
     int num{123};
